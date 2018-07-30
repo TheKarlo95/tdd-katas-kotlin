@@ -1,7 +1,6 @@
 package hr.thekarlo95.tdd.fizzbuzz
 
-import hr.thekarlo95.tdd.stringcalculator.Calculator
-import org.junit.Assert.*
+import org.junit.Assert.assertEquals
 import org.junit.Before
 import org.junit.Test
 
